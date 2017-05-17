@@ -1,7 +1,7 @@
 # A N T I K E
 
 Antike is a piece of software which allows your company staff members to instantly update their 
-status from around the world, and can be shared with others or put on a big screen
+status from around the world through an application that can be shared with others or put on a big screen.
 
 * Language: ES6
 * Server: Node,
